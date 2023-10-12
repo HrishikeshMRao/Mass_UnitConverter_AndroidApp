@@ -1,1 +1,0 @@
-This is my first application development project pretty basic. It converts pounds to Kgs and vice versa. Was able to interface toggle switches and a button. Also successfully added toasts and basic multiplication division algorithms to provide the final result.
